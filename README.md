@@ -6,7 +6,7 @@ além é claro de tornar o código legível onde qualquer pessoa que chegue depo
 
 ## 🖥️ Sobre o projeto
 
-Esta é uma aplicação construida com HTML5/CSS3 que aborda os seguintes princípios:
+Esta é uma aplicação de receitas construida com HTML5/CSS3 que aborda os seguintes princípios:
 
     - Utilizar seletores mais simples;
     - Organizar as propriedades dos arquivos css em ordem alfabética;
