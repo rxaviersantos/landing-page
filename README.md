@@ -12,7 +12,7 @@ Esta é uma aplicação construida com HTML5/CSS3 que aborda os seguintes princ�
 - Utilizar seletores mais simples;
 - Organizar as propriedades dos arquivos css em ordem alfabética;
 - Metodologia Atomic Design;  
-- Um padrão para nomear as classes de CSS;
+- Padrão para nomear as classes de CSS;
 - Metodologia BEM (Block Element Modifier);
 - Organização e estrutura de arquivos .css;
 - Separação de responsabilidades;
